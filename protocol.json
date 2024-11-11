@@ -1,11 +1,11 @@
 {
 	"home": {
-		"title"    : "MindTrails",
-        "flavor"   : "Undersatnd Your Thinking.\nFeel LessAnxious.",
-        "button_tl": {"text":"¿Qué es MindTrails Español?", "icon":"/assets/home_mindtrails.png"  , "click": "script://rationale"},
-        "button_tr": {"text":"Instrucciones"              , "icon":"/assets/home_instructions.png", "click": "script://instructions"},
-        "button_br": {"text":"¿Qué es la Ansiedad?"       , "icon":"/assets/home_anxiety.png"     , "click": "script://anxiety"},
-        "button_bl": {"text":"Recursos"                   , "icon":"/assets/home_resources.png"   , "click": "script://ending"}
+	        "title"    : "MindTrails",
+	        "flavor"   : "Undersatnd Your Thinking.\nFeel LessAnxious.",
+	        "button_tl": {"text":"¿Qué es MindTrails Español?", "icon":"/assets/home_mindtrails.png"  , "click": "script://rationale"},
+	        "button_tr": {"text":"Instrucciones"              , "icon":"/assets/home_instructions.png", "click": "script://instructions"},
+	        "button_br": {"text":"¿Qué es la Ansiedad?"       , "icon":"/assets/home_anxiety.png"     , "click": "script://anxiety"},
+	        "button_bl": {"text":"Recursos"                   , "icon":"/assets/home_resources.png"   , "click": "script://ending"}
 	},
 
 	"menu": [
@@ -42,5 +42,4 @@
 		{ "type": "timing", "action": "survey", "content": "script://eod"     , "frequency": "nightly" },
 		{ "type": "timing", "action": "survey", "content": "script://biweekly", "frequency": "biweekly" }
 	]
-
 }
