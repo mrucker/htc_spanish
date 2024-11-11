@@ -1,4 +1,8 @@
 {
+	"datum_endpoints": [
+		"https://digital-trails.org/api/v1/datums"
+	],
+
 	"home": {
 	        "title"    : "MindTrails",
 	        "flavor"   : "Undersatnd Your Thinking.\nFeel LessAnxious.",
