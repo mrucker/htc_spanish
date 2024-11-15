@@ -13,12 +13,12 @@
 		{"text":"¿Qué es MindTrails Español?", "icon":"/assets/menu_mindtrails.png"  , "action": "script://rationale"},
 		{"text":"Instrucciones"              , "icon":"/assets/menu_instructions.png", "action": "script://instructions"},
 		{"text":"¿Qué es la Ansiedad?"       , "icon":"/assets/menu_anxiety.png"     , "action": "script://anxiety"},
-		{"text":"Recursos"                   , "icon":"/assets/menu_resources.png"   , "action": "script://ending"},
+		{"text":"Recursos"                   , "icon":"/assets/menu_resources.png"   , "action": "script://resources"},
 		{"text":"F.A.Q."                     , "icon":"/assets/menu_faq.png"         , "action": "script://faq"},
 		{"text":"Meet the Team"              , "icon":"/assets/menu_team.png"        , "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"},
 		{"text":"Get Help"                   , "icon":"/assets/menu_help.png"        , "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"},
 		{"text":"Disclaimer"                 , "icon":"/assets/menu_disclaimer.png"}
-		{"text":"Unenroll"                   , "icon":"/assets/menu_help.png"        , "action": "script://reason_for_ending"},
+		{"text":"Unenroll"                   , "icon":"/assets/menu_help.png"        , "action": "script://ending"},
 		{"text":"Log Out"                   , "icon":"/assets/menu_help.png"       },
 	],
 	"scripts": {
@@ -34,8 +34,8 @@
 		"anxiety"     : "/scripts/what_is_anxiety.json"
 	},
 	"sessions": [ 
-		"script://intro", 
-		{"repeat": "script://microdoses" } 
+		{ "script": "script://intro", "sessionNumber": 0 }
+		{ "script": "script://microdoses" }
 	],
 	"triggers": [
 		{ "type": "timing", "action": "survey", "content": "script://eod"     , "frequency": "nightly" },
