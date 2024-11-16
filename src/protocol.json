@@ -1,5 +1,5 @@
 {
-	"datum_base_url": "https://digital-trails.org/api/v1/",
+	"datum_endpoint": "https://digital-trails.org/api/v1/datums",
 	"home": {
 	        "title"    : "MindTrails",
 	        "flavor"   : "Understand Your Thinking.\nFeel LessAnxious.",
@@ -17,7 +17,7 @@
 		{"text":"F.A.Q."                     , "icon":"/assets/menu_faq.png"         , "action": "script://faq"},
 		{"text":"Meet the Team"              , "icon":"/assets/menu_team.png"        , "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"},
 		{"text":"Get Help"                   , "icon":"/assets/menu_help.png"        , "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"},
-		{"text":"Disclaimer"                 , "icon":"/assets/menu_disclaimer.png"}
+		{"text":"Disclaimer"                 , "icon":"/assets/menu_disclaimer.png"},
 		{"text":"Unenroll"                   , "icon":"/assets/menu_help.png"        , "action": "script://ending"},
 		{"text":"Log Out"                   , "icon":"/assets/menu_help.png"       },
 	],
