@@ -2,8 +2,8 @@
 	"datum_endpoint": "https://digital-trails.org/api/v1/datums",
 	"home": {
 		"title"        : "MindTrails",
-	        "flavor_line1" : "Understand Your Thinking.",
-		"flavor_line2" : "Feel LessAnxious.",
+	        "flavor_line_1" : "Understand Your Thinking.",
+		"flavor_line_2" : "Feel LessAnxious.",
 	        "button_tl"    : {"text":"¿Qué es MindTrails Español?", "icon": "/assets/home_mindtrails.png",   "action": "script://rationale"},
 	        "button_tr"    : {"text":"Instrucciones",               "icon": "/assets/home_instructions.png", "action": "script://instructions"},
 	        "button_br"    : {"text":"¿Qué es la Ansiedad?",        "icon": "/assets/home_anxiety.png",      "action": "script://anxiety"},
