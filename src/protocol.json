@@ -37,7 +37,7 @@
 		"anxiety"      : "/scripts/what_is_anxiety.json"
 	},
 	"sessions": [ 
-		{ "script": "script://intro", "sessionNumber": 0 }
+		{ "script": "script://intro", "sessionNumber": 0 },
 		{ "script": "script://microdoses" }
 	],
 	"triggers": [
