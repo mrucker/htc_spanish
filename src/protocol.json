@@ -12,7 +12,7 @@
 	"menu": {
 		"home"     : {"text":"Home",     "icon":"/assets/menu_home.png" },
 		"unenroll" : {"text":"Unenroll", "icon":"/assets/menu_help.png", "action": "script://ending"},
-		"log_out"   : {"text":"Log Out",  "icon":"/assets/menu_help.png" },
+		"log_out"  : {"text":"Log Out",  "icon":"/assets/menu_help.png" },
 		"custom"   : [
 			{"text": "¿Qué es MindTrails Español?", "icon": "/assets/menu_mindtrails.png"  , "action": "script://rationale"},
 			{"text": "Instrucciones"              , "icon": "/assets/menu_instructions.png", "action": "script://instructions"},
