@@ -1,7 +1,6 @@
 {
     "name": "Instructions",
     "title": "Instrucciones",
-    "type": "Survey",
     "submit_button_text": "OK",
     "pages": [
         {
