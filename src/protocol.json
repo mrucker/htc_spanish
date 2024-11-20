@@ -1,13 +1,15 @@
 {
 	"datum_endpoint": "https://digital-trails.org/api/v1/datums",
+	"icon" : "/assets/home_mindtrails.png",
 	"home": {
-		"title"        : "MindTrails",
-	        "flavor_line_1" : "Understand Your Thinking.",
-		"flavor_line_2" : "Feel LessAnxious.",
-	        "button_tl"    : {"text":"¿Qué es MindTrails Español?", "icon": "/assets/home_mindtrails.png",   "action": "script://rationale"},
-	        "button_tr"    : {"text":"Instrucciones",               "icon": "/assets/home_instructions.png", "action": "script://instructions"},
-	        "button_br"    : {"text":"¿Qué es la Ansiedad?",        "icon": "/assets/home_anxiety.png",      "action": "script://anxiety"},
-	        "button_bl"    : {"text":"Recursos",                    "icon": "/assets/home_resources.png",    "action": "script://ending"}
+		"title"         : "MindTrails",
+		"banner_text_1" : "Understand Your Thinking.",
+		"banner_text_2" : "Feel LessAnxious.",
+	    "banner_icon"   : "/assets/home_banner.png",
+	    "button_tl"     : {"text":"¿Qué es MindTrails Español?", "icon": "/assets/home_mindtrails.png",   "action": "script://rationale"},
+	    "button_tr"     : {"text":"Instrucciones",               "icon": "/assets/home_instructions.png", "action": "script://instructions"},
+	    "button_br"     : {"text":"¿Qué es la Ansiedad?",        "icon": "/assets/home_anxiety.png",      "action": "script://anxiety"},
+	    "button_bl"     : {"text":"Recursos",                    "icon": "/assets/home_resources.png",    "action": "script://ending"}
 	},
 	"menu": {
 		"home"     : {"text":"Home",     "icon":"/assets/menu_home.png" },
