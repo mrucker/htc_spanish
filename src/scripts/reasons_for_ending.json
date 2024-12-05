@@ -337,7 +337,7 @@
                         "No::no",
                         "Inseguro::Inseguro"
                     ],
-                    "VariableName": "RFE_anxiety_depression"
+                    "variable_name": "RFE_anxiety_depression"
                 }
             ]
         },
@@ -361,10 +361,10 @@
                     ]
                 }
             ],
-            "Conditions": [
+            "conditions": [
                 {
-                    "VariableName": "RFE_anxiety_depression",
-                    "Value": "Si"
+                    "variable_name": "RFE_anxiety_depression",
+                    "value": "Si"
                 }
             ]
         },
@@ -388,10 +388,10 @@
                     ]
                 }
             ],
-            "Conditions": [
+            "conditions": [
                 {
-                    "VariableName": "RFE_anxiety_depression",
-                    "Value": "Inseguro"
+                    "variable_name": "RFE_anxiety_depression",
+                    "value": "Inseguro"
                 }
             ]
         },

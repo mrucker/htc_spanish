@@ -261,7 +261,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "seguridad"
                                     ]
@@ -299,7 +299,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "reír"
                                     ]
@@ -337,7 +337,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "finanzas"
                                     ]
@@ -375,7 +375,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "abajo"
                                     ]
@@ -413,7 +413,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "allá"
                                     ]
@@ -451,7 +451,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tú"
                                     ]
@@ -489,7 +489,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "sangrar"
                                     ]
@@ -527,7 +527,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "enfermo"
                                     ]
@@ -565,7 +565,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tiempo"
                                     ]
@@ -1769,7 +1769,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "seguridad"
                                     ]
@@ -1807,7 +1807,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "reír"
                                     ]
@@ -1845,7 +1845,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "finanzas"
                                     ]
@@ -1883,7 +1883,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "abajo"
                                     ]
@@ -1921,7 +1921,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "allá"
                                     ]
@@ -1959,7 +1959,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tú"
                                     ]
@@ -1997,7 +1997,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "sangrar"
                                     ]
@@ -2035,7 +2035,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "enfermo"
                                     ]
@@ -2073,7 +2073,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tiempo"
                                     ]
@@ -3298,7 +3298,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "seguridad"
                                     ]
@@ -3336,7 +3336,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "reír"
                                     ]
@@ -3374,7 +3374,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "finanzas"
                                     ]
@@ -3412,7 +3412,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "abajo"
                                     ]
@@ -3450,7 +3450,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "allá"
                                     ]
@@ -3488,7 +3488,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tú"
                                     ]
@@ -3526,7 +3526,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "sangrar"
                                     ]
@@ -3564,7 +3564,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "enfermo"
                                     ]
@@ -3602,7 +3602,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tiempo"
                                     ]
@@ -4865,7 +4865,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "seguridad"
                                     ]
@@ -4903,7 +4903,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "reír"
                                     ]
@@ -4941,7 +4941,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "finanzas"
                                     ]
@@ -4979,7 +4979,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "abajo"
                                     ]
@@ -5017,7 +5017,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "allá"
                                     ]
@@ -5055,7 +5055,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tú"
                                     ]
@@ -5093,7 +5093,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "sangrar"
                                     ]
@@ -5131,7 +5131,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "enfermo"
                                     ]
@@ -5169,7 +5169,7 @@
                                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
                                     "correct_score": 0.5,
                                     "incorrect_delay": 5000,
-                                    "case_navigation": true,
+                                    "cause_navigation": true,
                                     "words": [
                                         "tiempo"
                                     ]
