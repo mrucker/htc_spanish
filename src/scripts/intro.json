@@ -1,13 +1,11 @@
 {
-    "name": "Español",
-    "title": "MindTrails Español",
+    "name": "intro",
     "page_groups": [
         {
             "name": "¡Bienvenido!",
             "title": "¡Bienvenido!",
             "pages": [
                 {
-                    "title": "¡Bienvenido!",
                     "elements": [
                         {
                             "type": "Text",
@@ -24,7 +22,6 @@
             "title": "Demografía",
             "pages": [
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -50,7 +47,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -171,7 +167,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -199,7 +194,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -223,7 +217,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -258,7 +251,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -289,7 +281,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -319,7 +310,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -353,7 +343,6 @@
                     ]
                 },
                 {
-                    "title": "Demografía",
                     "elements": [
                         {
                             "type": "Text",
@@ -386,7 +375,6 @@
             "title": "Cuestionario de tratamiento y salud mental",
             "pages": [
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -397,7 +385,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -434,7 +421,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -463,7 +449,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -491,7 +476,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -519,7 +503,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -547,7 +530,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -575,7 +557,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -603,7 +584,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -631,7 +611,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -672,7 +651,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -701,7 +679,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -725,7 +702,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -761,7 +737,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -798,7 +773,6 @@
                     ]
                 },
                 {
-                    "title": "Cuestionario de tratamiento y salud mental",
                     "elements": [
                         {
                             "type": "Text",
@@ -2197,7 +2171,6 @@
             "title": "Escala de ansiedad",
             "pages": [
                 {
-                    "title": "Escala de ansiedad",
                     "elements": [
                         {
                             "type": "Text",
@@ -2223,7 +2196,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de ansiedad",
                     "elements": [
                         {
                             "type": "Text",
@@ -2249,7 +2221,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de ansiedad",
                     "elements": [
                         {
                             "type": "Text",
@@ -2275,7 +2246,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de ansiedad",
                     "elements": [
                         {
                             "type": "Text",
@@ -2301,7 +2271,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de ansiedad",
                     "elements": [
                         {
                             "type": "Text",
@@ -2330,10 +2299,8 @@
         },
         {
             "name": "Escala de tristeza",
-            "title": "Escala de tristeza",
             "pages": [
                 {
-                    "title": "Escala de tristeza",
                     "elements": [
                         {
                             "type": "Text",
@@ -2358,7 +2325,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de tristeza",
                     "elements": [
                         {
                             "type": "Text",
@@ -2389,7 +2355,6 @@
             "title": "Escala de estrés",
             "pages": [
                 {
-                    "title": "Escala de estrés",
                     "elements": [
                         {
                             "type": "Text",
@@ -2415,7 +2380,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de estrés",
                     "elements": [
                         {
                             "type": "Text",
@@ -2441,7 +2405,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de estrés",
                     "elements": [
                         {
                             "type": "Text",
@@ -2467,7 +2430,6 @@
                     ]
                 },
                 {
-                    "title": "Escala de estrés",
                     "elements": [
                         {
                             "type": "Text",
@@ -2499,7 +2461,6 @@
             "title": "Tu primera sesión",
             "pages": [
                 {
-                    "title": "Tu primera sesión",
                     "elements": [
                         {
                             "type": "Text",
@@ -2516,7 +2477,6 @@
             "title": "Ejercicio de limón",
             "pages": [
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2527,7 +2487,6 @@
                     ]
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2547,7 +2506,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2567,7 +2525,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2587,7 +2544,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2607,7 +2563,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2627,7 +2582,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2647,7 +2601,6 @@
                     "show_buttons": "AfterTimeout"
                 },
                 {
-                    "title": "Ejercicio de limón",
                     "elements": [
                         {
                             "type": "Text",
@@ -2671,7 +2624,6 @@
             "title": "Imágenes ansiosas principales",
             "pages": [
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2682,7 +2634,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2697,7 +2648,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2708,7 +2658,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2721,7 +2670,6 @@
                     "show_buttons": "Never"
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2743,7 +2691,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2769,7 +2716,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2795,7 +2741,6 @@
                     ]
                 },
                 {
-                    "title": "Imágenes ansiosas principales",
                     "elements": [
                         {
                             "type": "Text",
@@ -2847,8 +2792,6 @@
         {
             "name": "Contribuyendo a una discusión_____0",
             "title": "Contribuyendo a una discusión",
-            "type": "Scenario",
-            "DoseSize": 1,
             "pages": [
                 {
                     "name": "Contribuyendo a una discusión0",
@@ -2928,7 +2871,6 @@
             "title": "¡Hazlo tuyo!",
             "pages": [
                 {
-                    "title": "¡Hazlo tuyo!",
                     "elements": [
                         {
                             "type": "Text",
@@ -2965,8 +2907,6 @@
         {
             "name": "Atención en una tienda_____1",
             "title": "Atención en una tienda",
-            "type": "Scenario",
-            "DoseSize": 1,
             "pages": [
                 {
                     "name": "Atención en una tienda1",
@@ -3091,8 +3031,6 @@
         {
             "name": "Una pastel de cumpleaños_____2",
             "title": "Una pastel de cumpleaños",
-            "type": "Scenario",
-            "DoseSize": 1,
             "pages": [
                 {
                     "name": "Una pastel de cumpleaños2",
@@ -3172,7 +3110,6 @@
             "title": "Comprensión / Compromiso",
             "pages": [
                 {
-                    "title": "Comprensión / Compromiso",
                     "elements": [
                         {
                             "type": "Text",
@@ -3205,7 +3142,6 @@
             "title": "Gran trabajo",
             "pages": [
                 {
-                    "title": "Gran trabajo",
                     "elements": [
                         {
                             "type": "Text",
@@ -3216,7 +3152,6 @@
                     ]
                 },
                 {
-                    "title": "Gran trabajo",
                     "elements": [
                         {
                             "type": "Text",
@@ -3227,7 +3162,6 @@
                     ]
                 },
                 {
-                    "title": "Gran trabajo",
                     "elements": [
                         {
                             "type": "Text",
