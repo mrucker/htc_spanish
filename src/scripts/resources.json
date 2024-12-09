@@ -5,17 +5,43 @@
         {
             "elements": [
                 {
-                    "type": "ScriptMenu",
-                    "scripts": [
-                        { "text": "Académicos/Trabajo/Desarrollo Profesional", "action": "script://resources_personal_development" },
-                        { "text": "Vida Familiar y Doméstica", "action": "script://resources_family" },
-                        { "text": "Finanzas", "action": "script://resources_finances" },
-                        { "text": "Salud Mental", "action": "script://resources_mental_health" },
-                        { "text": "Salud Física", "action": "script://resources_physical_health" },
-                        { "text": "Relaciones Románticas", "action": "script://resources_romantic" },
-                        { "text": "Situaciones Sociales", "action": "script://resources_social_situations" },
-                        { "text": "Discriminación/Microagresiones", "action": "script://resources_discrimination" }
-                    ]
+                    "type": "ScriptButtons",
+                    "properties": {
+                        "scripts": [
+                            {
+                                "text": "Académicos/Trabajo/Desarrollo Profesional",
+                                "action": "script://resources_personal_development"
+                            },
+                            {
+                                "text": "Vida Familiar y Doméstica",
+                                "action": "script://resources_family"
+                            },
+                            {
+                                "text": "Finanzas",
+                                "action": "script://resources_finances"
+                            },
+                            {
+                                "text": "Salud Mental",
+                                "action": "script://resources_mental_health"
+                            },
+                            {
+                                "text": "Salud Física",
+                                "action": "script://resources_physical_health"
+                            },
+                            {
+                                "text": "Relaciones Románticas",
+                                "action": "script://resources_romantic"
+                            },
+                            {
+                                "text": "Situaciones Sociales",
+                                "action": "script://resources_social_situations"
+                            },
+                            {
+                                "text": "Discriminación/Microagresiones",
+                                "action": "script://resources_discrimination"
+                            }
+                        ]
+                    }
                 }
             ]
         }

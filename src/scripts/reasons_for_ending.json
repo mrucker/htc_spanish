@@ -7,7 +7,9 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Estamos interesados ​​en mejorar Hoos Think Calmly y nos gustaría saber por qué decidió suspender el programa. ¡Agradecemos sus comentarios!"
+                    "properties": {
+                        "text": "Estamos interesados ​​en mejorar Hoos Think Calmly y nos gustaría saber por qué decidió suspender el programa. ¡Agradecemos sus comentarios!"
+                    }
                 }
             ]
         },
@@ -15,23 +17,27 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Por qué decidiste terminar el programa? Por favor marque todos los que apliquen."
+                    "properties": {
+                        "text": "¿Por qué decidiste terminar el programa? Por favor marque todos los que apliquen."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "reasons_for_ending",
-                    "buttons": [
-                        "No tuve tiempo suficiente para completar el programa",
-                        "No encontré el programa útil para reducir mi ansiedad",
-                        "No encontré el programa interesante",
-                        "No creía que un programa como este pudiera funcionar",
-                        "Encontré el programa frustrante de usar",
-                        "Ya no necesitaba el programa (es decir, ya no me sentía ansioso)",
-                        "Creo que me asignaron la condición de control (es decir, la condición que no se esperaba que cambiara la ansiedad)",
-                        "Otro",
-                        "^Prefiero no responder"
-                    ],
-                    "allow_multiple": true
+                    "properties": {
+                        "buttons": [
+                            "No tuve tiempo suficiente para completar el programa",
+                            "No encontré el programa útil para reducir mi ansiedad",
+                            "No encontré el programa interesante",
+                            "No creía que un programa como este pudiera funcionar",
+                            "Encontré el programa frustrante de usar",
+                            "Ya no necesitaba el programa (es decir, ya no me sentía ansioso)",
+                            "Creo que me asignaron la condición de control (es decir, la condición que no se esperaba que cambiara la ansiedad)",
+                            "Otro",
+                            "^Prefiero no responder"
+                        ],
+                        "allow_multiple": true
+                    }
                 }
             ]
         },
@@ -39,7 +45,9 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "En la medida en que hayas completado el programa..."
+                    "properties": {
+                        "text": "En la medida en que hayas completado el programa..."
+                    }
                 }
             ]
         },
@@ -47,19 +55,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan útil le resultó Hoos Think Calmly para reducir su ansiedad?"
+                    "properties": {
+                        "text": "¿Qué tan útil le resultó Hoos Think Calmly para reducir su ansiedad?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "reduce_anxiety",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -67,19 +79,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿En qué medida Hoos Think Calmly mantuvo su interés y atención?"
+                    "properties": {
+                        "text": "¿En qué medida Hoos Think Calmly mantuvo su interés y atención?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "keep_interest",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -87,19 +103,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿En qué medida podría identificarse con las historias presentadas durante las sesiones de capacitación?"
+                    "properties": {
+                        "text": "¿En qué medida podría identificarse con las historias presentadas durante las sesiones de capacitación?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "relate_scenarios",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -107,19 +127,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan creíbles te parecieron los finales de las historias en términos de los resultados que suceden en tu vida?"
+                    "properties": {
+                        "text": "¿Qué tan creíbles te parecieron los finales de las historias en términos de los resultados que suceden en tu vida?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "believable_scenarios",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -127,19 +151,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Cuánto te gustó el aspecto de Hoos Think Calmly?"
+                    "properties": {
+                        "text": "¿Cuánto te gustó el aspecto de Hoos Think Calmly?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "UI",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -147,19 +175,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan fácil fue usar Hoos Think Calmly?"
+                    "properties": {
+                        "text": "¿Qué tan fácil fue usar Hoos Think Calmly?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "easy_to_use",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -167,19 +199,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Las sesiones de formación me parecieron:"
+                    "properties": {
+                        "text": "Las sesiones de formación me parecieron:"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "find_sessions",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -187,19 +223,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan útil te pareció la encuesta nocturna que te permitió elegir cuándo completar el entrenamiento al día siguiente?"
+                    "properties": {
+                        "text": "¿Qué tan útil te pareció la encuesta nocturna que te permitió elegir cuándo completar el entrenamiento al día siguiente?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "nightly_survey_use",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -207,19 +247,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan preocupado estaba por su privacidad al usar Hoos Think Calmly?"
+                    "properties": {
+                        "text": "¿Qué tan preocupado estaba por su privacidad al usar Hoos Think Calmly?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "privacy",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -227,19 +271,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan agotadoras te parecieron las sesiones de entrenamiento?"
+                    "properties": {
+                        "text": "¿Qué tan agotadoras te parecieron las sesiones de entrenamiento?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "tiring_training",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -247,19 +295,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan agotadoras te parecieron las evaluaciones?"
+                    "properties": {
+                        "text": "¿Qué tan agotadoras te parecieron las evaluaciones?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "tiring_assessments",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -267,19 +319,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Cuánto te gustó la función \"favoritos\" de la aplicación?"
+                    "properties": {
+                        "text": "¿Cuánto te gustó la función \"favoritos\" de la aplicación?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "favorites",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -287,19 +343,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
+                    "properties": {
+                        "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "tips_use",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -307,19 +367,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué probabilidades hay de que recomiende Hoos Think Calmly a otras personas con dificultades de ansiedad similares?"
+                    "properties": {
+                        "text": "¿Qué probabilidades hay de que recomiende Hoos Think Calmly a otras personas con dificultades de ansiedad similares?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "recommend",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -327,17 +391,21 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
+                    "properties": {
+                        "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "anxiety_or_depression",
-                    "buttons": [
-                        "Sí::Sí",
-                        "No::no",
-                        "Inseguro::Inseguro"
-                    ],
-                    "variable_name": "RFE_anxiety_depression"
+                    "variable_name": "RFE_anxiety_depression",
+                    "properties": {
+                        "buttons": [
+                            "Sí::Sí",
+                            "No::no",
+                            "Inseguro::Inseguro"
+                        ]
+                    }
                 }
             ]
         },
@@ -345,20 +413,24 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+                    "properties": {
+                        "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "interest_in_therapy",
-                    "buttons": [
-                        "Mucho más probable",
-                        "Un poco más probable",
-                        "Igualmente probable",
-                        "Un poco menos probable",
-                        "Mucho menos probable",
-                        "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
-                        "Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "Mucho más probable",
+                            "Un poco más probable",
+                            "Igualmente probable",
+                            "Un poco menos probable",
+                            "Mucho menos probable",
+                            "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
+                            "Prefiero no responder"
+                        ]
+                    }
                 }
             ],
             "conditions": [
@@ -372,20 +444,24 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+                    "properties": {
+                        "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "interest_in_therapy",
-                    "buttons": [
-                        "Mucho más probable",
-                        "Un poco más probable",
-                        "Igualmente probable",
-                        "Un poco menos probable",
-                        "Mucho menos probable",
-                        "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
-                        "Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "Mucho más probable",
+                            "Un poco más probable",
+                            "Igualmente probable",
+                            "Un poco menos probable",
+                            "Mucho menos probable",
+                            "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
+                            "Prefiero no responder"
+                        ]
+                    }
                 }
             ],
             "conditions": [
@@ -399,19 +475,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
+                    "properties": {
+                        "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "resources_use",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -419,36 +499,40 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "¿Se comunicó con alguno de los siguientes recursos o referencias en algún momento desde que comenzó a usar Hoos Think Calmly? Por favor seleccione todas las respuestas válidas."
+                    "properties": {
+                        "text": "¿Se comunicó con alguno de los siguientes recursos o referencias en algún momento desde que comenzó a usar Hoos Think Calmly? Por favor seleccione todas las respuestas válidas."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "resources_contacted",
-                    "buttons": [
-                        "Clubes y organizaciones (por ejemplo, grupos culturales, voluntariado)",
-                        "Servicios de Consejería y Psicología (CAPS)",
-                        "Programa de asistencia a profesores y empleados (FEAP)",
-                        "Línea de AYUDA",
-                        "HoosBueno",
-                        "Centros de estudiantes multiculturales (por ejemplo, interreligiosos, latinos, LGBTQ)",
-                        "Oficina de Igualdad de Oportunidades y Derechos Civiles (EOCR)",
-                        "Oficina de Asuntos Afroamericanos (OAAA)",
-                        "Oficina de Asuntos de Graduados y Postdoctorados",
-                        "Oficina del Decano de Estudiantes (ODOS)",
-                        "Doctorado Plus",
-                        "Centro de Acceso para Estudiantes con Discapacidades (SDAC)",
-                        "Servicios financieros para estudiantes",
-                        "Salud y Bienestar Estudiantil",
-                        "atención oportuna",
-                        "Centro de Carreras UVA",
-                        "Recursos Humanos (RR.HH.) UVA",
-                        "Centro de la Mujer UVA",
-                        "Centro de Escritura UVA",
-                        "WahooBueno",
-                        "Otro",
-                        "^No me comuniqué con ninguno de estos recursos/referencias desde que comencé este programa."
-                    ],
-                    "allow_multiple": true
+                    "properties": {
+                        "buttons": [
+                            "Clubes y organizaciones (por ejemplo, grupos culturales, voluntariado)",
+                            "Servicios de Consejería y Psicología (CAPS)",
+                            "Programa de asistencia a profesores y empleados (FEAP)",
+                            "Línea de AYUDA",
+                            "HoosBueno",
+                            "Centros de estudiantes multiculturales (por ejemplo, interreligiosos, latinos, LGBTQ)",
+                            "Oficina de Igualdad de Oportunidades y Derechos Civiles (EOCR)",
+                            "Oficina de Asuntos Afroamericanos (OAAA)",
+                            "Oficina de Asuntos de Graduados y Postdoctorados",
+                            "Oficina del Decano de Estudiantes (ODOS)",
+                            "Doctorado Plus",
+                            "Centro de Acceso para Estudiantes con Discapacidades (SDAC)",
+                            "Servicios financieros para estudiantes",
+                            "Salud y Bienestar Estudiantil",
+                            "atención oportuna",
+                            "Centro de Carreras UVA",
+                            "Recursos Humanos (RR.HH.) UVA",
+                            "Centro de la Mujer UVA",
+                            "Centro de Escritura UVA",
+                            "WahooBueno",
+                            "Otro",
+                            "^No me comuniqué con ninguno de estos recursos/referencias desde que comencé este programa."
+                        ],
+                        "allow_multiple": true
+                    }
                 }
             ]
         },
@@ -456,7 +540,9 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lea las siguientes declaraciones y díganos qué problema tuvo al intentar utilizar la aplicación."
+                    "properties": {
+                        "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lea las siguientes declaraciones y díganos qué problema tuvo al intentar utilizar la aplicación."
+                    }
                 }
             ]
         },
@@ -464,19 +550,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, la aplicación falla o se congela) dificultaron la tarea.\n usar."
+                    "properties": {
+                        "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, la aplicación falla o se congela) dificultaron la tarea.\n usar."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "tech_problems",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -484,19 +574,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Simplemente olvidé abrir la aplicación."
+                    "properties": {
+                        "text": "Simplemente olvidé abrir la aplicación."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "forgot",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -504,19 +598,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Problemas personales me impidieron usar la aplicación."
+                    "properties": {
+                        "text": "Problemas personales me impidieron usar la aplicación."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "personal_issues",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -524,19 +622,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "La aplicación era demasiado difícil de navegar."
+                    "properties": {
+                        "text": "La aplicación era demasiado difícil de navegar."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "navigate",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -544,19 +646,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "La aplicación era demasiado difícil de entender."
+                    "properties": {
+                        "text": "La aplicación era demasiado difícil de entender."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "hard_to_understand",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -564,19 +670,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "La aplicación no me pareció muy útil."
+                    "properties": {
+                        "text": "La aplicación no me pareció muy útil."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "not_useful",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -584,19 +694,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Pensé que el programa iba a durar demasiado."
+                    "properties": {
+                        "text": "Pensé que el programa iba a durar demasiado."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "too_long",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -604,19 +718,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "La aplicación tenía demasiadas palabras."
+                    "properties": {
+                        "text": "La aplicación tenía demasiadas palabras."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "too_many_words",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -624,19 +742,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "La pantalla era difícil de leer (por ejemplo, las palabras eran demasiado pequenas)."
+                    "properties": {
+                        "text": "La pantalla era difícil de leer (por ejemplo, las palabras eran demasiado pequenas)."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "difficult_to_read",
-                    "buttons": [
-                        "De nada",
-                        "Levemente",
-                        "Un poco",
-                        "Principalmente",
-                        "Muy",
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -644,23 +766,27 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Durante este programa, ¿cambió alguna dosis de medicamento, terapia u otra intervención para ayudar a su salud mental? Por favor marque todos los que apliquen."
+                    "properties": {
+                        "text": "Durante este programa, ¿cambió alguna dosis de medicamento, terapia u otra intervención para ayudar a su salud mental? Por favor marque todos los que apliquen."
+                    }
                 },
                 {
                     "type": "Buttons",
                     "name": "change_mental_health",
-                    "buttons": [
-                        "Busco más terapia presencial ahora",
-                        "Ahora busco menos terapia en persona",
-                        "Ahora uso más medicamentos recetados",
-                        "Ahora uso menos medicamentos recetados",
-                        "Ahora uso más programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
-                        "Ahora uso menos programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
-                        "Otro",
-                        "^No cambié mis hábitos de intervención",
-                        "Prefiero no responder"
-                    ],
-                    "allow_multiple": true
+                    "properties": {
+                        "buttons": [
+                            "Busco más terapia presencial ahora",
+                            "Ahora busco menos terapia en persona",
+                            "Ahora uso más medicamentos recetados",
+                            "Ahora uso menos medicamentos recetados",
+                            "Ahora uso más programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
+                            "Ahora uso menos programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
+                            "Otro",
+                            "^No cambié mis hábitos de intervención",
+                            "Prefiero no responder"
+                        ],
+                        "allow_multiple": true
+                    }
                 }
             ]
         }

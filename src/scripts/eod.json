@@ -6,16 +6,20 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "En general, hoy me sentí...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+                    "properties": {
+                        "text": "En general, hoy me sentí...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+                    }
                 },
                 {
                     "type": "Slider",
                     "name": "EOD_mood",
-                    "minimum": 1,
-                    "maximum": 7,
-                    "other_choices": [
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "minimum": 1,
+                        "maximum": 7,
+                        "other_choices": [
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -23,16 +27,20 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Hoy pude pensar en situaciones estresantes o perturbadoras de una manera nueva o diferente.\n\n1 = Para nada cierto\n\n7 = Muy cierto"
+                    "properties": {
+                        "text": "Hoy pude pensar en situaciones estresantes o perturbadoras de una manera nueva o diferente.\n\n1 = Para nada cierto\n\n7 = Muy cierto"
+                    }
                 },
                 {
                     "type": "Slider",
                     "name": "EOD_thinking",
-                    "minimum": 1,
-                    "maximum": 7,
-                    "other_choices": [
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "minimum": 1,
+                        "maximum": 7,
+                        "other_choices": [
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -40,16 +48,20 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Pude manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
+                    "properties": {
+                        "text": "Pude manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
+                    }
                 },
                 {
                     "type": "Slider",
                     "name": "EOD_emotions",
-                    "minimum": 1,
-                    "maximum": 7,
-                    "other_choices": [
-                        "^Prefiero no responder"
-                    ]
+                    "properties": {
+                        "minimum": 1,
+                        "maximum": 7,
+                        "other_choices": [
+                            "^Prefiero no responder"
+                        ]
+                    }
                 }
             ]
         },
@@ -57,17 +69,23 @@
             "elements": [
                 {
                     "type": "Text",
-                    "text": "Le animamos a completar 2 programas cortos de Hoos Think Calmly manana. Pensando en su día de manana, ¿hay momentos específicos en los que le gustaría recibir una notificación para completar un programa de ~5 minutos para ayudar a manejar una situación estresante o perturbadora?"
+                    "properties": {
+                        "text": "Le animamos a completar 2 programas cortos de Hoos Think Calmly manana. Pensando en su día de manana, ¿hay momentos específicos en los que le gustaría recibir una notificación para completar un programa de ~5 minutos para ayudar a manejar una situación estresante o perturbadora?"
+                    }
                 },
                 {
                     "type": "Scheduler",
                     "name": "schedule_session1",
-                    "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."
+                    "properties": {
+                        "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."
+                    }
                 },
                 {
                     "type": "Scheduler",
                     "name": "schedule_session2",
-                    "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."
+                    "properties": {
+                        "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."
+                    }
                 }
             ]
         }
