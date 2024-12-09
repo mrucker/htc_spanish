@@ -10,7 +10,7 @@
                         "scripts": [
                             {
                                 "text": "Académicos/Trabajo/Desarrollo Profesional",
-                                "action": "script://resources_personal_development"
+                                "action": "script://resources_personal"
                             },
                             {
                                 "text": "Vida Familiar y Doméstica",
@@ -22,11 +22,11 @@
                             },
                             {
                                 "text": "Salud Mental",
-                                "action": "script://resources_mental_health"
+                                "action": "script://resources_mental"
                             },
                             {
                                 "text": "Salud Física",
-                                "action": "script://resources_physical_health"
+                                "action": "script://resources_physical"
                             },
                             {
                                 "text": "Relaciones Románticas",
@@ -34,7 +34,7 @@
                             },
                             {
                                 "text": "Situaciones Sociales",
-                                "action": "script://resources_social_situations"
+                                "action": "script://resources_social"
                             },
                             {
                                 "text": "Discriminación/Microagresiones",
