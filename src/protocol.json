@@ -112,22 +112,23 @@
 		"anxiety": "/scripts/what_is_anxiety.json"
 	},
 	"sessions": [
-		{
-			"script": "script://sessions"
-		}
+		"script://sessions"
 	],
 	"triggers": [
 		{
 			"type": "timing",
 			"action": "survey",
 			"content": "script://eod",
-			"frequency": "nightly"
+			"frequency": "1",
+			"time": "20:00"
 		},
 		{
 			"type": "timing",
 			"action": "survey",
 			"content": "script://biweekly",
-			"frequency": "biweekly"
+			"frequency": "14",
+			"time": "20:00",
+			"requires": ["sessions"]
 		}
 	]
 }
