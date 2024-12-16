@@ -1,7 +1,7 @@
 {
     "name": "Follow Your Progress",
     "title": "Sigue Tu Progreso",
-    "increment_session": true,
+    "increment_session_before": true,
     "sessions": [
         {
             "title": "Sigue Tu Progreso - Semana 2",

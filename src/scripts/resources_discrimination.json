@@ -1,6 +1,7 @@
 {
     "name": "Discrimination/Microaggressions",
     "title": "Discriminación/Microagresiones",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

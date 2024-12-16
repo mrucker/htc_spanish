@@ -1,6 +1,7 @@
 {
     "name": "On-demand resources",
     "title": "Recursos",
+    "hide_progress" : true,
     "pages": [
         {
             "elements": [

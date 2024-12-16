@@ -1,6 +1,7 @@
 {
     "name": "Nightly Survey",
     "title": "Encuesta Nocturna",
+    "hide_progress" : true,
     "pages": [
         {
             "elements": [

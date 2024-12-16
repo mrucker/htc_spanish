@@ -1,6 +1,7 @@
 {
     "name": "Finances",
     "title": "Finanzas",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

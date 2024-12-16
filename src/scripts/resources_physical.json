@@ -1,6 +1,7 @@
 {
     "name": "Physical Health",
     "title": "Salud Física",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

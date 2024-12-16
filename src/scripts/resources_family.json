@@ -1,6 +1,7 @@
 {
     "name": "Family & Home Life",
     "title": "Vida Familiar y Doméstica",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

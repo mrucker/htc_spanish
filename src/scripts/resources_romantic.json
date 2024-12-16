@@ -1,6 +1,7 @@
 {
     "name": "Romantic Relationships",
     "title": "Relaciones Románticas",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

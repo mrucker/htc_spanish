@@ -3,6 +3,11 @@
     "title": "MindTrails Español",
     "page_groups": [
         {
+            "source_script": "intro",
+            "session_number_pattern": "Equal",
+            "session_number": 0
+        },
+        {
             "name": "BeforeDomain_All",
             "page_groups": [
                 {

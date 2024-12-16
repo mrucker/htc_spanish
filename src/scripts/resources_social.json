@@ -1,6 +1,7 @@
 {
     "name": "Social Situations",
     "title": "Situaciones Sociales",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

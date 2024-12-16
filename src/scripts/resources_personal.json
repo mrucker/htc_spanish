@@ -1,6 +1,7 @@
 {
     "name": "Academics/Work/Career Development",
     "title": "Académicos/Trabajo/Desarrollo Profesional",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",

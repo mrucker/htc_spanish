@@ -1,6 +1,7 @@
 {
     "name": "Mental Health",
     "title": "Salud Mental",
+    "hide_progress" : true,
     "page_groups": [
         {
             "name": "Which subdomain?",
