@@ -4,7 +4,7 @@
 	"home": {
 		"title": "MindTrails",
 		"banner_text_1": "Understand Your Thinking.",
-		"banner_text_2": "Feel LessAnxious.",
+		"banner_text_2": "Feel Less Anxious.",
 		"banner_icon": "/assets/home_banner.png",
 		"button_tl": {
 			"text": "¿Qué es MindTrails Español?",
@@ -79,7 +79,8 @@
 			},
 			{
 				"text": "Disclaimer",
-				"icon": "/assets/menu_disclaimer.png"
+				"icon": "/assets/menu_disclaimer.png",
+				"action": "script://disclaimer"
 			}
 		]
 	},
@@ -109,7 +110,8 @@
 		"resources_discrimination": "/scripts/resources_discrimination.json",
 		"rationale": "/scripts/rationale.json",
 		"ending": "/scripts/reasons_for_ending.json",
-		"anxiety": "/scripts/what_is_anxiety.json"
+		"anxiety": "/scripts/what_is_anxiety.json",
+		"disclaimer": "/scripts/disclaimer.json"
 	},
 	"sessions": [
 		"script://sessions"
