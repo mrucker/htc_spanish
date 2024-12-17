@@ -17,14 +17,14 @@
 			"action": "script://instructions"
 		},
 		"button_br": {
-			"text": "¿Qué es la Ansiedad?",
-			"icon": "/assets/home_anxiety.png",
-			"action": "script://anxiety"
-		},
-		"button_bl": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
 			"action": "script://ending"
+		},
+		"button_bl": {
+			"text": "¿Qué es la Ansiedad?",
+			"icon": "/assets/home_anxiety.png",
+			"action": "script://anxiety"
 		}
 	},
 	"menu": {
