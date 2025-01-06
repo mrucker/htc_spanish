@@ -330,31 +330,31 @@
                                     },
                                     {
                                         "text": "Académicos/Trabajo/Desarrollo Profesional",
-                                        "action": "sessions_personal"
+                                        "action": "script://sessions_personal"
                                     },
                                     {
                                         "text": "Vida Familiar y Doméstica",
-                                        "action": "sessions_family"
+                                        "action": "script://sessions_family"
                                     },
                                     {
                                         "text": "Relaciones Románticas",
-                                        "action": "sessions_romantic"
+                                        "action": "script://sessions_romantic"
                                     },
                                     {
                                         "text": "Finanzas",
-                                        "action": "sessions_finances"
+                                        "action": "script://sessions_finances"
                                     },
                                     {
                                         "text": "Salud Mental",
-                                        "action": "sessions_mental"
+                                        "action": "script://sessions_mental"
                                     },
                                     {
                                         "text": "Salud Física",
-                                        "action": "sessions_physical"
+                                        "action": "script://sessions_physical"
                                     },
                                     {
                                         "text": "Situaciones Sociales",
-                                        "action": "sessions_physical"
+                                        "action": "script://sessions_physical"
                                     }
                                 ]
                             }
