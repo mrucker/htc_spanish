@@ -326,7 +326,7 @@
                                 "scripts": [
                                     {
                                         "text": "Discriminación",
-                                        "action": "sessions_discrimination"
+                                        "action": "script://sessions_discrimination"
                                     },
                                     {
                                         "text": "Académicos/Trabajo/Desarrollo Profesional",
