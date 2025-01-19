@@ -1,0 +1,25 @@
+{
+    "name": "Atención en una tienda1",
+    "title": "Atención en una tienda",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Label",
+                    "properties": {
+                        "text": "Atención en una tienda",
+                        "border": true
+                    }
+                },
+                {
+                    "type": "Media",
+                    "properties": {
+                        "path": "/images/Atención_en_una_tienda.jpg"
+                    },
+                    "border": true
+                }
+            ]
+        }
+    ]
+}

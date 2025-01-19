@@ -1,0 +1,28 @@
+{
+    "name": "Medidas de sesgo de interpretación",
+    "title": "La recepción de la boda",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿El público se ríe cuando hablas?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_wedding",
+                    "properties": {
+                        "buttons": [
+                            "Sí",
+                            "No"
+                        ],
+                        "selectable": true
+                    }
+                }
+            ]
+        }
+    ]
+}

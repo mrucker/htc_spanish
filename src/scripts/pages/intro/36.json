@@ -1,0 +1,28 @@
+{
+    "name": "Medidas de sesgo de interpretación",
+    "title": "Conociendo a un amigo",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Tu amigo se detuvo?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_friend",
+                    "properties": {
+                        "buttons": [
+                            "Sí",
+                            "No"
+                        ],
+                        "selectable": true
+                    }
+                }
+            ]
+        }
+    ]
+}
