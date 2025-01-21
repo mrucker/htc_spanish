@@ -1,9 +1,9 @@
 {
     "name": "On-demand resources",
     "title": "Recursos",
-	"elements":[
+    "elements":[
 		{
-			"type": "ScriptButtons",
+			"type": "FlowButtons",
 			"buttons": [
 				{
 					"text": "Vida Familiar y Doméstica",
