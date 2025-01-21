@@ -4,7 +4,7 @@
 	"elements":[
 		{
 			"type": "ScriptButtons",
-			"scripts": [
+			"buttons": [
 				{
 					"text": "Vida Familiar y Doméstica",
 					"action": "flow://scripts/flows/resources_family.json"
